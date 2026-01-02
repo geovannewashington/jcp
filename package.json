@@ -1,13 +1,18 @@
 {
-  "name": "aula_86",
+  "name": "jcp",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Client-side password generator built with JavaScript and bundled using Webpack",
+  "private": true,
   "scripts": {
-    "dev": "webpack -w"
+    "dev": "webpack --watch --mode development",
+    "build": "webpack --mode production"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "password-generator",
+    "javascript",
+    "webpack",
+    "client-side"
+  ],
   "license": "ISC",
   "devDependencies": {
     "@babel/cli": "^7.24.8",
