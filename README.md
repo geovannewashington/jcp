@@ -16,8 +16,8 @@ https://jcp-nu.vercel.app/
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/geovannewashington/password-generator.git
-cd password-generator
+git clone https://github.com/geovannewashington/jcp.git
+cd jcp
 npm install
 ```
 
