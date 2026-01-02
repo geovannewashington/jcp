@@ -1,4 +1,4 @@
-# jcp (javaScript creates password)
+# jcp (javascript creates password)
 
 A client-side password generator built with JavaScript and bundled using Webpack.
 
